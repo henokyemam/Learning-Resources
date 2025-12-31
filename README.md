@@ -19,6 +19,7 @@ This repo has a collection of resources I have compiled over the years
 5. https://github.com/mshumer/gpt-llm-trainer
 6. https://github.com/JeremyAlain/imitation_learning_from_language_feedback
 7. https://github.com/tomohideshibata/BERT-related-papers
+8. https://github.com/stanford-futuredata/ColBERT?tab=readme-ov-file
 
 ### GPUs
 1. https://github.com/tinygrad/open-gpu-kernel-modules
